@@ -1,0 +1,14 @@
+D:\самообучение\c# Developer\LibraryManager\LibraryManager\bin\Debug\net9.0\LibraryManager.exe
+D:\самообучение\c# Developer\LibraryManager\LibraryManager\bin\Debug\net9.0\LibraryManager.deps.json
+D:\самообучение\c# Developer\LibraryManager\LibraryManager\bin\Debug\net9.0\LibraryManager.runtimeconfig.json
+D:\самообучение\c# Developer\LibraryManager\LibraryManager\bin\Debug\net9.0\LibraryManager.dll
+D:\самообучение\c# Developer\LibraryManager\LibraryManager\bin\Debug\net9.0\LibraryManager.pdb
+D:\самообучение\c# Developer\LibraryManager\LibraryManager\obj\Debug\net9.0\LibraryManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\самообучение\c# Developer\LibraryManager\LibraryManager\obj\Debug\net9.0\LibraryManager.AssemblyInfoInputs.cache
+D:\самообучение\c# Developer\LibraryManager\LibraryManager\obj\Debug\net9.0\LibraryManager.AssemblyInfo.cs
+D:\самообучение\c# Developer\LibraryManager\LibraryManager\obj\Debug\net9.0\LibraryManager.csproj.CoreCompileInputs.cache
+D:\самообучение\c# Developer\LibraryManager\LibraryManager\obj\Debug\net9.0\LibraryManager.dll
+D:\самообучение\c# Developer\LibraryManager\LibraryManager\obj\Debug\net9.0\refint\LibraryManager.dll
+D:\самообучение\c# Developer\LibraryManager\LibraryManager\obj\Debug\net9.0\LibraryManager.pdb
+D:\самообучение\c# Developer\LibraryManager\LibraryManager\obj\Debug\net9.0\LibraryManager.genruntimeconfig.cache
+D:\самообучение\c# Developer\LibraryManager\LibraryManager\obj\Debug\net9.0\ref\LibraryManager.dll

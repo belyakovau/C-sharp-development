@@ -1,0 +1,15 @@
+{
+  "Books": [
+    {
+      "Id": 1,
+      "Title": "\u0422\u0440\u0438 \u0442\u043E\u0432\u0430\u0440\u0438\u0449\u0430",
+      "Author": "\u0420\u0435\u043C\u0430\u0440\u043A",
+      "Genre": "\u0420\u043E\u043C\u0430\u043D",
+      "Year": 1978,
+      "IsAvailable": true,
+      "BorrowHistory": []
+    }
+  ],
+  "Readers": [],
+  "Borrowings": []
+}
